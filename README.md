@@ -23,7 +23,7 @@ The following important libraries were used for this project:
 
 ## Dataset
 
-The dataset was loaded using pandas as a DataFrame from the file "advertising.csv".
+The dataset was loaded using pandas as a DataFrame from the file "Sales Dataset.csv".
 
 ## Data Exploration and Preprocessing
 
